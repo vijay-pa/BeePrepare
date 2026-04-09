@@ -58,3 +58,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 *Built with ❤️ for future spelling champions.*
+
+**Live Site**: [bee-prepare.vercel.app](https://bee-prepare.vercel.app)
