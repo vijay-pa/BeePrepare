@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Upload, ArrowRight, Sparkles, Key, FileSpreadsheet, RotateCcw } from 'lucide-react';
+import { Upload, ArrowRight, Sparkles, Key, RotateCcw } from 'lucide-react';
 import { sortWordsByBeeFrequency, getGroqApiKey, setGroqApiKey } from '../lib/api';
 import * as XLSX from 'xlsx';
 

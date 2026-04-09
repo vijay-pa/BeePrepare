@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { PlayCircle, ArrowRight, ArrowLeft, Key } from 'lucide-react';
 import { fetchWordInfo, getGroqApiKey, setGroqApiKey } from '../lib/api';
